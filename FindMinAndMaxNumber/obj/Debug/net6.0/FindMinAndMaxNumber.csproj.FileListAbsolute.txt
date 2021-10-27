@@ -1,0 +1,16 @@
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\bin\Debug\net6.0\FindMinAndMaxNumber.exe
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\bin\Debug\net6.0\FindMinAndMaxNumber.deps.json
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\bin\Debug\net6.0\FindMinAndMaxNumber.runtimeconfig.json
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\bin\Debug\net6.0\FindMinAndMaxNumber.dll
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\bin\Debug\net6.0\ref\FindMinAndMaxNumber.dll
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\bin\Debug\net6.0\FindMinAndMaxNumber.pdb
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\obj\Debug\net6.0\FindMinAndMaxNumber.GlobalUsings.g.cs
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\obj\Debug\net6.0\FindMinAndMaxNumber.csproj.AssemblyReference.cache
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\obj\Debug\net6.0\FindMinAndMaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\obj\Debug\net6.0\FindMinAndMaxNumber.AssemblyInfoInputs.cache
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\obj\Debug\net6.0\FindMinAndMaxNumber.AssemblyInfo.cs
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\obj\Debug\net6.0\FindMinAndMaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\obj\Debug\net6.0\FindMinAndMaxNumber.dll
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\obj\Debug\net6.0\ref\FindMinAndMaxNumber.dll
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\obj\Debug\net6.0\FindMinAndMaxNumber.pdb
+C:\Users\aman7\OneDrive\Рабочий стол\Homework\FindMinAndMaxNumber\obj\Debug\net6.0\FindMinAndMaxNumber.genruntimeconfig.cache
